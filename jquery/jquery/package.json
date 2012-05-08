@@ -1,0 +1,5 @@
+{
+    "volo": {
+        "url": "http://code.jquery.com/jquery-{version}.js"
+    }
+}

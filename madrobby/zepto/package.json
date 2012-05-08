@@ -1,0 +1,5 @@
+{
+    "volo": {
+        "url": "http://zeptojs.com/downloads/zepto-{version}.zip#dist/zepto.js"
+    }
+}
