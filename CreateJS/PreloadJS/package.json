@@ -1,0 +1,5 @@
+{
+    "volo": {
+        "url": "https://raw.github.com/CreateJS/PreloadJS/{version}/lib/preloadjs-{version}.min.js"
+    }
+}
