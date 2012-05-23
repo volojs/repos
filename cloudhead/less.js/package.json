@@ -1,0 +1,5 @@
+{
+    "volo": {
+        "url": "https://raw.github.com/cloudhead/less.js/master/dist/less-{version}.js"
+    }
+}
