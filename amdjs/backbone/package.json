@@ -1,0 +1,9 @@
+{
+    "volo": {
+        "url": "https://raw.github.com/amdjs/backbone/{version}/backbone.js",
+        "dependencies": {
+          "jquery": "jquery",
+          "underscore": "underscore"
+        }
+    }
+}
