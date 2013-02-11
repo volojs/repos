@@ -1,0 +1,5 @@
+{
+    "volo": {
+        "url": "http://sinonjs.org/releases/sinon-{version}.js"
+    }
+}
