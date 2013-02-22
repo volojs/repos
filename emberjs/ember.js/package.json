@@ -1,5 +1,5 @@
 {
     "volo": {
-        "url": "https://github.com/downloads/emberjs/ember.js/ember-{version}.js"
+        "url": "https://github.com/emberjs/ember.js/tree/release-builds/ember-{version}.js"
     }
 }

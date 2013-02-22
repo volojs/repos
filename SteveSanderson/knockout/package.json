@@ -1,0 +1,5 @@
+{
+    "volo" : {
+        "url" : "http://knockoutjs.com/downloads/knockout-{version}.js"
+    }
+}
