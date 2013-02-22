@@ -1,5 +1,5 @@
 {
     "volo": {
-        "url": "https://raw.github.com/mbostock/d3/{version}/d3.js"
+        "url": "https://raw.github.com/mbostock/d3/v{version}/d3.js"
     }
 }
