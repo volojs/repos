@@ -1,0 +1,4 @@
+{
+    "deps": ["jquery", "underscore"],
+    "exports": "Backbone"
+}
