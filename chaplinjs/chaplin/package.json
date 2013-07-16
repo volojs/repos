@@ -1,0 +1,8 @@
+{
+    "volo": {
+        "url": "https://raw.github.com/chaplinjs/downloads/{version}/amd/chaplin.js",
+        "dependencies": {
+            "backbone": "backbone"
+        }
+    }
+}
