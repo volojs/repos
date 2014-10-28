@@ -1,5 +1,8 @@
 {
     "volo": {
-        "url": "https://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.js"
+        "url": "https://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.js",
+        "dependencies": {
+          "jquery": "jquery"
+        }
     }
 }
