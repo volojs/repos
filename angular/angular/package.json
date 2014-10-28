@@ -1,0 +1,5 @@
+{
+    "volo": {
+        "url": "https://ajax.googleapis.com/ajax/libs/angularjs/{version}/angular.js"
+    }
+}
